@@ -52,12 +52,6 @@ public class RestClient {
     }
 
 }
-
-
-
-
-
-
 /*
        // int statuscode = closeableHttpResponse.getStatusLine().getStatusCode();
        // System.out.println("statusCode --->" + + statuscode);
